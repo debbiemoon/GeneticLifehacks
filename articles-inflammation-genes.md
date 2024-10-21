@@ -57,4 +57,8 @@
 - [Are Cold Sores Genetic? Who gets them and why](https://www.geneticlifehacks.com/cold-sores-genetics/)  
   Only 30% of people with HSV get cold sores. Learn about the genetic factors that influence this.
 
-- [Fat
+- [Fatigue: Root Causes, Genetics, Personalized Solutions](https://www.geneticlifehacks.com/fatigue-root-causes-genetics/)  
+  Discover why you may feel tired despite rest and how genetic factors contribute to fatigue.
+
+- [TNF-alpha: Inflammation, Chronic Diseases, and Genetic Susceptibility](https://www.geneticlifehacks.com/tnf-alpha-inflammation-genetics/)  
+  TNF-alpha is a major inflammatory cytokine. Learn how genetic variants influence its levels and chronic disease risk.

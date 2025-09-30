@@ -3,18 +3,6 @@
 
 This repository houses a curated collection of articles and research on interpreting your genetic data (23andMe, AncestryDNA, etc.) — especially through the lens of inflammation, mental health, and nutrigenomics.
 
-## 📂 Repository Structure & Key Articles
-
-| File / Folder | Description |
-|---|---|
-| **README.md** | This overview and navigation guide |
-| `Chronic-Inflammation-Genetic-Causes.md` | Deep-dive on genetic factors in chronic inflammation |
-| `Is Inflammation Causing Your Depression and Anxiety?` | Article exploring how inflammation may underlie mood disorders |
-| `articles-inflammation-genes.md` | Collection of articles on inflammation-gene relationships |
-| `lpa.md` | Research and commentary on lipoprotein(a) |
-| `nutrigenomics-articles/` | Folder containing articles on diet, nutrition, and gene interactions |
-| `nutrigenomics.md` | Overview or index for nutrigenomics content |
-| `resource-raw-data-interpretation.md` | Guide to interpreting genetic raw data |
 
 ## 🔗 Direct Links to Key Pages
 

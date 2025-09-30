@@ -36,5 +36,4 @@ My goal is to help readers:
 
 ---
 
-Thanks for visiting!  
-Let me know if you’d like a more minimal, command-line-style README, or versions formatted for GitHub Pages, Jekyll, or other presentation styles.  
+Thanks for visiting!   

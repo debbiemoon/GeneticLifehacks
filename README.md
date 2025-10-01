@@ -7,7 +7,7 @@ This repository houses a curated collection of articles and research on interpre
 ## 🔗 Direct Links to Key Pages
 
 - [Chronic Inflammation Genetic Causes](https://github.com/debbiemoon/genetics/blob/main/Chronic-Inflammation-Genetic-Causes.md)  
-- [Is Inflammation Causing Your Depression and Anxiety?](https://github.com/debbiemoon/genetics/blob/main/Is%20Inflammation%20Causing%20Your%20Depression%20and%20Anxiety%3F)  
+- [Is Inflammation Causing Your Depression and Anxiety?](https://github.com/debbiemoon/genetics/blob/main/depression-genetics-inflammation.md)  
 - [Inflammation & Gene-Article Collection](https://github.com/debbiemoon/genetics/blob/main/articles-inflammation-genes.md)  
 - [Lipoprotein(a) (LPA)](https://github.com/debbiemoon/genetics/blob/main/lpa.md)  
 - [Nutrigenomics Articles (folder)](https://github.com/debbiemoon/genetics/tree/main/nutrigenomics-articles)  
